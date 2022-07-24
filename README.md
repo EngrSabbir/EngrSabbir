@@ -15,8 +15,9 @@ I'm an independent creative developer from Bangladesh .
 <br /><br />
 ### Connect with me
 
-[<img align="left" alt="LinkedIn" width="100" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( http://www.linkedin.com/in/melanieseok-huashi)
-[<img align="left" alt="Medium" width="100" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/medium.ico" />](https://melaniesoek0120.medium.com)
+[<img align="left" alt="LinkedIn" width="100" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />](https://www.linkedin.com/in/engrsabbir/)
+[<img align="left" alt="Medium" width="100" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/medium.ico" />](https://medium.com/@engrsabbir
+)
 <br />
 <br />   
 
