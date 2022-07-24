@@ -1,4 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Engr Md Sabbir. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://easyfezy.com"><img width="80%" alt="Hello, I'm Engr Md Sabbir. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
 <br />
 
